@@ -1,8 +1,5 @@
 # Homework
+new branch2
 
-Hello! git
-
-Hello
-hi!  
 
 
