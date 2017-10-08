@@ -1,5 +1,3 @@
 # Homework
-Homework GitHub
-new version
-GitHub
+Hello!
 
